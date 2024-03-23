@@ -1,3 +1,1 @@
 # labgit
-* evening 
-* sunset
